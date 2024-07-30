@@ -21,6 +21,10 @@ HealthMate utilizes Decision Tree, Naïve Bayes, and Random Forest algorithms to
 The performance of the algorithms was evaluated using accuracy, sensitivity, and specificity metrics. Random Forest achieved the highest accuracy, followed by Naïve Bayes and Decision Tree.
 
 ## Results
+
+ ![Alt text](https://github.com/srijaaaaa/HealthMate/blob/main/GUI/ss2.png)
+
+ ![Alt text](https://github.com/srijaaaaa/HealthMate/blob/main/GUI/ss3.png)
 HealthMate demonstrated promising accuracy scores:
 - **Decision Tree**: 0.95
 - **Naïve Bayes**: 0.91
